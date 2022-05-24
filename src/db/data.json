@@ -1,0 +1,3689 @@
+{
+   "error": 0,
+   "msg": null,
+   "o": [
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "01/27/2022 11:27:10 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Jan 27-2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "12/09/2021 09:12:53 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 3006"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "12/07/2021 11:19:39 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1024"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "12/02/2021 08:31:23 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1003"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "12/02/2021 08:31:23 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1004"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "12/01/2021 08:15:12 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1002"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "12/01/2021 08:06:23 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1001"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "12/01/2021 07:31:28 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1000"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/22/2021 04:54:07 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 904"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/22/2021 04:49:52 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 903"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/10/2021 02:12:00 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Nov 10-10"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/10/2021 02:05:17 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Nov 10-9"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/10/2021 01:57:51 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Nov 10-8"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/05/2021 09:18:57 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 6"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/05/2021 08:57:40 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 5"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/05/2021 08:03:09 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 4"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/05/2021 07:59:24 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 3"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/05/2021 07:54:19 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/05/2021 07:45:33 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/04/2021 06:22:33 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/04/2021 04:46:19 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/04/2021 03:40:00 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/04/2021 02:37:43 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/04/2021 02:33:49 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/04/2021 01:57:30 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/04/2021 12:26:35 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/04/2021 10:56:59 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/04/2021 09:51:25 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/04/2021 08:45:27 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/04/2021 08:41:49 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/04/2021 08:30:56 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/03/2021 06:48:13 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/03/2021 06:42:50 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/03/2021 06:18:10 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/03/2021 05:55:46 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/03/2021 04:17:18 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 5"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/03/2021 04:16:13 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 4"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/03/2021 04:12:10 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 3"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/03/2021 03:33:53 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 2 Test"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/03/2021 09:16:39 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/03/2021 09:09:40 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/02/2021 07:32:53 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/02/2021 07:17:51 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/02/2021 03:16:21 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/02/2021 02:54:56 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/02/2021 09:53:19 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/02/2021 08:30:48 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/02/2021 08:13:13 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/01/2021 09:17:38 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "11/01/2021 08:30:17 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/29/2021 01:23:17 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 8"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/29/2021 11:23:17 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 6"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/29/2021 10:54:27 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 5"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/29/2021 09:36:23 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 4"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/29/2021 09:28:57 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 3"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/29/2021 09:07:58 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/29/2021 08:41:17 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/28/2021 05:50:46 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 15"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/28/2021 05:06:20 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 14"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/28/2021 03:57:37 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 13"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/28/2021 03:49:38 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 12"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/28/2021 03:21:39 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 11"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/28/2021 01:53:36 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 10"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "10/28/2021 09:28:12 AM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/28/2021 07:32:15 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 8"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/26/2021 01:23:24 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 7"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/25/2021 01:14:50 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 6"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/13/2021 02:39:11 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 5"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/12/2021 09:28:11 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 4"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/11/2021 01:39:31 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 3"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/08/2021 09:24:15 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/07/2021 12:39:36 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "blackout test 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/06/2021 02:21:40 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "test looping campaign"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "09/15/2021 12:26:51 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "09/15/2021 12:26:45 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign Sep 15"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "09/09/2021 09:40:11 AM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "09/09/2021 09:40:04 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Sep 9 - 2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "09/09/2021 09:38:24 AM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "09/09/2021 09:38:19 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Sep 9 - 1"
+         }
+       ]
+     },
+     {
+      "VisitId": 0,
+      "Type": "email consent granted",
+      "ActivityTime": "09/09/2021 09:38:00 AM",
+      "Details": [
+        {
+          "Name": "Campaign Name",
+          "Value": "DS Sep 9 - 1"
+        }
+      ]
+    },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "09/08/2021 10:57:44 AM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "09/08/2021 10:57:42 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Sep 8 -1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "08/24/2021 11:26:26 AM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/24/2021 11:26:24 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign PSM Aug 24 - 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/12/2021 11:14:17 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Aug 12"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/09/2021 02:30:12 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Aug9 - 3"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/09/2021 02:26:27 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Aug 9- 2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/09/2021 02:10:31 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Aug 9-1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/06/2021 12:19:31 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Aug 6 -3"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/06/2021 12:07:03 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Aug 6 - 2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/06/2021 10:47:51 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Aug6 -1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 04:49:15 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Aug 5 -4"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 04:45:47 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Aug 5 -3"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 04:28:45 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Aug 5 - 2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 04:10:40 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Aug5"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "08/05/2021 03:14:28 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "08/05/2021 03:14:27 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "08/05/2021 03:14:27 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS 452"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS 45"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS 34"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS 12"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Jul 27"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Partner Summary Metrics Reporting Campaign"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 7-16)"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 7-15 A"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 7-14 A"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 7-02 H"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 7-02 G"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 7-02 F"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 7-02 E"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 7-02 C"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 7-02 B"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 7-02 A"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 7-01 D"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 7-01 C"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 7-01 B"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 7-01 A"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-29 B"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "08/05/2021 03:14:24 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign June 24 - 5"
+         }
+       ]
+     },
+     {
+       "VisitId": 134,
+       "Type": "Visit",
+       "ActivityTime": "06/24/2021 01:30:56 PM",
+       "Details": [
+         {
+           "Name": "Pages Viewed",
+           "Value": "1"
+         },
+         {
+           "Name": "Visit Duration",
+           "Value": "00:00:04"
+         },
+         {
+           "Name": "Visited From",
+           "Value": "Comcast Cable Communications LLC US 73.229.98.104"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Form Fill",
+       "ActivityTime": "06/24/2021 01:28:55 PM",
+       "Details": [
+         {
+           "Name": "Form Filled",
+           "Value": "DS Dev Form"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "06/24/2021 01:26:50 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/24/2021 01:26:47 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign June 24 - 4"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/24/2021 01:09:31 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign June 24 - 3"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/24/2021 12:58:38 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign June 24 - 2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/24/2021 12:50:36 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaing June 24"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/23/2021 09:32:01 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-21 T"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/23/2021 09:13:13 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-21 S"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/23/2021 09:07:27 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-21 R"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/22/2021 05:03:25 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-21 Q"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/22/2021 09:48:02 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-21 P"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/21/2021 03:38:22 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-21 O"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/21/2021 03:12:28 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-21 N"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/21/2021 03:10:20 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-21 M"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/21/2021 02:36:27 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-21 L"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/21/2021 02:29:42 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-21 K"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/21/2021 01:18:27 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-21 J"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/21/2021 01:16:43 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-21 I"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/21/2021 01:10:04 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-21 H"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/21/2021 11:11:51 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign June 21 - 2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/21/2021 11:09:42 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign June 21"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/21/2021 10:29:39 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-21 G"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/21/2021 09:20:25 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-21 F"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/21/2021 09:07:00 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-21 E"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/21/2021 08:44:53 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-21 D"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/21/2021 08:35:27 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-21 C"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/21/2021 08:21:48 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-21 B"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/21/2021 08:05:53 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "Renato 6-21 A"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/18/2021 03:29:24 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 100"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Form Fill",
+       "ActivityTime": "06/17/2021 04:50:25 PM",
+       "Details": [
+         {
+           "Name": "Form Filled",
+           "Value": "DS Dev Form"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "06/17/2021 04:37:55 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/17/2021 04:37:54 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign June 17 - 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 111,
+       "Type": "Visit",
+       "ActivityTime": "06/16/2021 01:46:43 PM",
+       "Details": [
+         {
+           "Name": "Pages Viewed",
+           "Value": "1         "
+         },
+         {
+           "Name": "Visit Duration",
+           "Value": "01:01:07"
+         },
+         {
+           "Name": "Visited From",
+           "Value": "Comcast Cable Communications LLC US 73.34.205.125"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "06/16/2021 01:45:12 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/16/2021 01:45:10 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS June 16 - 2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/16/2021 01:45:10 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS June 16 - 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Form Fill",
+       "ActivityTime": "06/16/2021 01:45:00 PM",
+       "Details": [
+         {
+           "Name": "Form Filled",
+           "Value": "DS Dev Form"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Registered For Event",
+       "ActivityTime": "06/15/2021 06:28:19 PM",
+       "Details": [
+         {
+           "Name": "Title",
+           "Value": "DS Test Jun 15"
+         },
+         {
+           "Name": "Scheduled",
+           "Value": "06/30/2021 08:00:00 PM"
+         },
+         {
+           "Name": "ZAPIER",
+           "Value": "Zapier Integration"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Attended Event",
+       "ActivityTime": "06/15/2021 11:57:41 AM",
+       "Details": [
+         {
+           "Name": "Title",
+           "Value": "DS Test Jun 15"
+         },
+         {
+           "Name": "Duration",
+           "Value": "540 (minutes)"
+         },
+         {
+           "Name": "ZAPIER",
+           "Value": "Zapier Integration"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/11/2021 02:55:04 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 36"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/11/2021 02:52:07 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 35"
+         }
+       ]
+     },
+     {
+       "VisitId": 103,
+       "Type": "Visit",
+       "ActivityTime": "06/09/2021 02:56:12 PM",
+       "Details": [
+         {
+           "Name": "Pages Viewed",
+           "Value": "1         "
+         },
+         {
+           "Name": "Visit Duration",
+           "Value": "00:00:01"
+         },
+         {
+           "Name": "Visited From",
+           "Value": "Comcast Cable Communications LLC US 73.92.0.56"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Form Fill",
+       "ActivityTime": "06/09/2021 02:54:26 PM",
+       "Details": [
+         {
+           "Name": "Form Filled",
+           "Value": "DS Dev Form"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "06/09/2021 02:44:38 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/09/2021 02:44:36 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS June 9 - 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/08/2021 09:30:03 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign June 8 - 2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/08/2021 09:24:30 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaing Jun 8"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "06/07/2021 01:01:02 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/07/2021 01:01:00 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "dfgdf"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "06/04/2021 05:37:07 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/04/2021 05:37:06 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign June 4 - 6"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/04/2021 01:39:16 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign June 4 - 5"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/04/2021 01:30:03 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign June 4 - 3"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "06/04/2021 01:25:41 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/04/2021 01:25:36 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign June 4 - 2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "06/04/2021 11:42:06 AM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/04/2021 11:42:04 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign June 4"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/03/2021 05:01:11 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 21 - 13"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "06/03/2021 03:58:24 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/03/2021 03:58:21 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign June 3"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "06/02/2021 02:16:16 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/02/2021 02:16:13 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS June 2 Campaign 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/01/2021 08:31:40 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 21 - 12"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/01/2021 07:53:08 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 21 - 11"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "06/01/2021 06:39:27 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 21 - 10"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Did Not Attend Event",
+       "ActivityTime": "05/31/2021 11:00:00 PM",
+       "Details": [
+         {
+           "Name": "Title",
+           "Value": "Globex Motors Webinar 4"
+         },
+         {
+           "Name": "Scheduled",
+           "Value": "05/31/2021 11:00:00 PM"
+         },
+         {
+           "Name": "ZAPIER",
+           "Value": "Zapier Integration"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Did Not Attend Event",
+       "ActivityTime": "05/26/2021 08:00:00 PM",
+       "Details": [
+         {
+           "Name": "Title",
+           "Value": "Webinar 3 for Globex Motors"
+         },
+         {
+           "Name": "Scheduled",
+           "Value": "05/26/2021 08:00:00 PM"
+         },
+         {
+           "Name": "ZAPIER",
+           "Value": "Zapier Integration"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/26/2021 05:28:13 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 21 - 9"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/26/2021 04:49:47 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 21 - 8"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/26/2021 04:37:32 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 21 - 7"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/26/2021 04:27:15 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 21 - 6"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/25/2021 11:50:00 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 25"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/24/2021 04:21:32 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 21 - 5"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/24/2021 10:33:38 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 21 - 4"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/24/2021 10:24:23 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 21 - 3"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/21/2021 10:21:59 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 21 - 2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/21/2021 10:02:49 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 21"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/20/2021 05:06:38 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 20 Campaign 3"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/20/2021 04:42:32 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 20 Campaign 2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/20/2021 02:37:32 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 20 Campaign"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/20/2021 01:36:43 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 34"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/20/2021 01:36:15 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 33"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/20/2021 10:54:36 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 32"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/20/2021 10:39:44 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 31"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/20/2021 10:36:15 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 30"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/20/2021 10:05:51 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 29"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/19/2021 11:12:08 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 28"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "05/19/2021 11:06:59 AM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Demo2 Email",
+           "Template": "12"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/19/2021 11:06:56 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Demo2 Campaign"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Did Not Attend Event",
+       "ActivityTime": "05/19/2021 12:00:00 AM",
+       "Details": [
+         {
+           "Name": "Title",
+           "Value": "Webinar 25"
+         },
+         {
+           "Name": "Scheduled",
+           "Value": "05/19/2021 12:00:00 AM"
+         },
+         {
+           "Name": "ZAPIER",
+           "Value": "Zapier Integration"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Registered For Event",
+       "ActivityTime": "05/18/2021 09:51:33 PM",
+       "Details": [
+         {
+           "Name": "Title",
+           "Value": "Webinar 25"
+         },
+         {
+           "Name": "Scheduled",
+           "Value": "05/19/2021 12:00:00 AM"
+         },
+         {
+           "Name": "ZAPIER",
+           "Value": "Zapier Integration"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/18/2021 06:07:53 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 27"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/18/2021 05:59:18 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 26"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/18/2021 05:57:01 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 25"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/18/2021 05:50:35 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 24"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/18/2021 05:45:15 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 23"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/18/2021 04:08:13 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 22"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/18/2021 09:30:43 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 21"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/18/2021 09:13:51 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 20"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/18/2021 09:02:17 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 19"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/17/2021 04:01:35 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 18"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/17/2021 03:58:39 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 17"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/17/2021 03:39:39 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 16"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/17/2021 03:37:06 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 15"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/17/2021 03:29:20 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 14"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/17/2021 02:55:30 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 13"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/17/2021 02:35:18 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 12"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/17/2021 02:08:49 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 11"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/17/2021 01:50:51 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 10"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/14/2021 06:05:33 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 9"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/13/2021 04:15:29 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 8"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/13/2021 12:54:30 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 7"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/12/2021 05:26:52 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 6"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/12/2021 05:25:56 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 5"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/12/2021 05:18:57 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 4"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/12/2021 04:52:44 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 3"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/12/2021 04:50:52 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/12/2021 04:31:55 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 12 - 1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Registered For Event",
+       "ActivityTime": "05/11/2021 10:07:11 PM",
+       "Details": [
+         {
+           "Name": "Title",
+           "Value": "Globex Motors Webinar 4"
+         },
+         {
+           "Name": "Scheduled",
+           "Value": "05/31/2021 11:00:00 PM"
+         },
+         {
+           "Name": "ZAPIER",
+           "Value": "Zapier Integration"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/10/2021 10:18:52 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign May 10 -2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/10/2021 10:14:19 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 10"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/07/2021 04:13:29 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 5 campaign alert - 6"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/07/2021 03:40:51 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 5 campaign alert - 5"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/07/2021 01:32:26 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 5 campaign alert - 4"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/07/2021 01:22:40 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 5 campaign alert - 3"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Attended Event",
+       "ActivityTime": "05/05/2021 06:01:10 PM",
+       "Details": [
+         {
+           "Name": "Title",
+           "Value": "Webinar 2 for Globex Motors"
+         },
+         {
+           "Name": "Duration",
+           "Value": "897 (minutes)"
+         },
+         {
+           "Name": "ZAPIER",
+           "Value": "Zapier Integration"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/05/2021 03:10:47 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 5 campaign alert - 2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/05/2021 03:07:52 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 5 Campaign Alert"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Registered For Event",
+       "ActivityTime": "05/04/2021 05:24:32 PM",
+       "Details": [
+         {
+           "Name": "Title",
+           "Value": "Webinar 3 for Globex Motors"
+         },
+         {
+           "Name": "Scheduled",
+           "Value": "05/26/2021 08:00:00 PM"
+         },
+         {
+           "Name": "ZAPIER",
+           "Value": "Zapier Integration"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Registered For Event",
+       "ActivityTime": "05/04/2021 04:50:51 PM",
+       "Details": [
+         {
+           "Name": "Title",
+           "Value": "Webinar 2 for Globex Motors"
+         },
+         {
+           "Name": "Scheduled",
+           "Value": "05/31/2021 05:00:00 PM"
+         },
+         {
+           "Name": "ZAPIER",
+           "Value": "Zapier Integration"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "05/03/2021 09:18:32 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Globex Webinar Email",
+           "Template": "11"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "05/03/2021 09:18:29 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS May 3 Webinar Campaign"
+         }
+       ]
+     },
+     {
+       "VisitId": 32,
+       "Type": "Visit",
+       "ActivityTime": "02/10/2021 02:04:50 PM",
+       "Details": [
+         {
+           "Name": "Pages Viewed",
+           "Value": "1         "
+         },
+         {
+           "Name": "Visit Duration",
+           "Value": "00:00:41"
+         },
+         {
+           "Name": "Visited From",
+           "Value": "AT&T Internet Services US 75.4.203.12"
+         }
+       ]
+     },
+     {
+       "VisitId": 30,
+       "Type": "Visit",
+       "ActivityTime": "02/10/2021 01:38:20 PM",
+       "Details": [
+         {
+           "Name": "Pages Viewed",
+           "Value": "1         "
+         },
+         {
+           "Name": "Visit Duration",
+           "Value": "00:03:56"
+         },
+         {
+           "Name": "Visited From",
+           "Value": "AT&T Internet Services US 75.4.203.12"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Form Fill",
+       "ActivityTime": "02/10/2021 11:29:55 AM",
+       "Details": [
+         {
+           "Name": "Form Filled",
+           "Value": "DS Dev Form"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "02/10/2021 10:29:54 AM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Opened; Visited"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "02/10/2021 10:29:53 AM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign Feb 10"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "02/01/2021 02:19:04 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Go to Webinar Email",
+           "Template": "10"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "02/01/2021 02:19:03 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Zapier test 4"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "02/01/2021 02:16:24 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Go to Webinar Email",
+           "Template": "10"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "02/01/2021 02:16:22 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Zapier test 3"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "02/01/2021 02:13:04 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Go to Webinar Email",
+           "Template": "10"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "02/01/2021 02:13:01 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Zapier test 2"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "02/01/2021 01:55:08 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Go to Webinar Email",
+           "Template": "10"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "02/01/2021 01:55:05 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Test Zapier1"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "01/18/2021 03:04:41 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 27,
+       "Type": "Visit",
+       "ActivityTime": "01/18/2021 02:54:13 PM",
+       "Details": [
+         {
+           "Name": "Pages Viewed",
+           "Value": "1         "
+         },
+         {
+           "Name": "Visit Duration",
+           "Value": "00:00:25"
+         },
+         {
+           "Name": "Visited From",
+           "Value": "AT&T Internet Services US 75.4.203.12"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "01/18/2021 02:48:09 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Demo Email",
+           "Template": "5"
+         },
+         {
+           "Name": "Status",
+           "Value": "Opened; Visited"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "01/18/2021 02:48:05 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Jan 18 2020"
+         }
+       ]
+     },
+     {
+       "VisitId": 20,
+       "Type": "Visit",
+       "ActivityTime": "01/15/2021 05:54:32 PM",
+       "Details": [
+         {
+           "Name": "Pages Viewed",
+           "Value": "1         "
+         },
+         {
+           "Name": "Visit Duration",
+           "Value": "24:48:11"
+         },
+         {
+           "Name": "Visited From",
+           "Value": "AT&T Internet Services US 75.4.203.12"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "01/15/2021 05:14:19 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Opened; Visited"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "01/15/2021 05:14:11 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign 2 Jan 15"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Form Fill",
+       "ActivityTime": "01/15/2021 05:07:09 PM",
+       "Details": [
+         {
+           "Name": "Form Filled",
+           "Value": "DS Dev Form"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Form Fill",
+       "ActivityTime": "01/15/2021 05:04:57 PM",
+       "Details": [
+         {
+           "Name": "Form Filled",
+           "Value": "DS Dev Form"
+         }
+       ]
+     },
+     {
+       "VisitId": 17,
+       "Type": "Visit",
+       "ActivityTime": "01/15/2021 04:44:59 PM",
+       "Details": [
+         {
+           "Name": "Pages Viewed",
+           "Value": "7         "
+         },
+         {
+           "Name": "Visit Duration",
+           "Value": "00:37:54"
+         },
+         {
+           "Name": "Visited From",
+           "Value": "AT&T Internet Services US 75.4.203.12"
+         }
+       ]
+     },
+     {
+       "VisitId": 16,
+       "Type": "Visit",
+       "ActivityTime": "01/15/2021 04:44:31 PM",
+       "Details": [
+         {
+           "Name": "Pages Viewed",
+           "Value": "1         "
+         },
+         {
+           "Name": "Visit Duration",
+           "Value": "00:00:01"
+         },
+         {
+           "Name": "Visited From",
+           "Value": "AT&T Internet Services US 75.4.203.12"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Form Fill",
+       "ActivityTime": "01/15/2021 04:42:52 PM",
+       "Details": [
+         {
+           "Name": "Form Filled",
+           "Value": "DS Dev Form"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Form Fill",
+       "ActivityTime": "01/15/2021 03:55:55 PM",
+       "Details": [
+         {
+           "Name": "Form Filled",
+           "Value": "DS Dev Form"
+         }
+       ]
+     },
+     {
+       "VisitId": 13,
+       "Type": "Visit",
+       "ActivityTime": "01/15/2021 03:52:12 PM",
+       "Details": [
+         {
+           "Name": "Pages Viewed",
+           "Value": "3         "
+         },
+         {
+           "Name": "Visit Duration",
+           "Value": "00:05:46"
+         },
+         {
+           "Name": "Visited From",
+           "Value": "AT&T Internet Services US 75.4.203.12"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "01/15/2021 03:48:19 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Opened; Visited"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "01/15/2021 03:48:10 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign Jan 15"
+         }
+       ]
+     },
+     {
+       "VisitId": 10,
+       "Type": "Visit",
+       "ActivityTime": "01/14/2021 12:22:39 PM",
+       "Details": [
+         {
+           "Name": "Pages Viewed",
+           "Value": "1         "
+         },
+         {
+           "Name": "Visit Duration",
+           "Value": "00:00:10"
+         },
+         {
+           "Name": "Visited From",
+           "Value": "AT&T Internet Services US 75.4.203.12"
+         }
+       ]
+     },
+     {
+       "VisitId": 9,
+       "Type": "Visit",
+       "ActivityTime": "01/13/2021 04:01:02 PM",
+       "Details": [
+         {
+           "Name": "Pages Viewed",
+           "Value": "1         "
+         },
+         {
+           "Name": "Visit Duration",
+           "Value": "00:00:31"
+         },
+         {
+           "Name": "Visited From",
+           "Value": "AT&T Internet Services US 75.4.203.12"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "01/13/2021 03:49:12 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Opened; Visited"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "01/13/2021 03:49:05 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign Jan 13"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "12/08/2020 04:07:02 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Test Email for all Landing Pages",
+           "Template": "4"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "12/08/2020 04:06:56 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign Dec 8 2020"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "10/27/2020 04:52:34 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Partner Email",
+           "Template": "2"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Member Of Campaign",
+       "ActivityTime": "10/27/2020 04:52:29 PM",
+       "Details": [
+         {
+           "Name": "Campaign Name",
+           "Value": "DS Campaign Oct 27"
+         }
+       ]
+     },
+     {
+       "VisitId": 0,
+       "Type": "Mailout",
+       "ActivityTime": "10/27/2020 04:46:31 PM",
+       "Details": [
+         {
+           "Name": "Sender",
+           "Value": "Example User 1"
+         },
+         {
+           "Name": "Subject",
+           "Value": "DS Partner Email",
+           "Template": "2"
+         },
+         {
+           "Name": "Status",
+           "Value": "Delivered"
+         }
+       ]
+     }
+   ]
+ }

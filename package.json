@@ -1,0 +1,84 @@
+{
+  "name": "new-partner-portal",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "build-storybook": "build-storybook",
+    "storybook": "start-storybook -p 6006"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-pro": "^6.1.1",
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-regular-svg-icons": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/pro-duotone-svg-icons": "^6.1.1",
+    "@fortawesome/pro-light-svg-icons": "^6.1.1",
+    "@fortawesome/pro-regular-svg-icons": "^6.1.1",
+    "@fortawesome/pro-solid-svg-icons": "^6.1.1",
+    "@fortawesome/pro-thin-svg-icons": "^6.1.1",
+    "@fortawesome/vue-fontawesome": "^2.0.6",
+    "@mdi/font": "5.9.55",
+    "@vuelidate/core": "^2.0.0-alpha.40",
+    "@vuelidate/validators": "^2.0.0-alpha.28",
+    "animate.css": "^4.1.1",
+    "axios": "^0.27.2",
+    "chart.js": "^3.7.1",
+    "core-js": "^3.21.1",
+    "d3": "^7.3.0",
+    "primeicons": "^5.0.0",
+    "primevue": "^3.12.1",
+    "roboto-fontface": "*",
+    "vue": "^3.2.31",
+    "vue-d3-charts": "^0.2.8",
+    "vue-router": "^4.0.13",
+    "vuetify": "npm:@vuetify/nightly@next",
+    "vuex": "^4.0.2",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "@storybook/addon-actions": "^6.4.19",
+    "@storybook/addon-essentials": "^6.4.19",
+    "@storybook/addon-links": "^6.4.19",
+    "@storybook/vue3": "^6.4.19",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.2.31",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.2.3",
+    "dart-sass": "^1.25.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^7.0.0",
+    "sass": "^1.49.9",
+    "sass-loader": "^10.2.1",
+    "vue-cli-plugin-vuetify": "~2.4.6",
+    "vue-loader": "^16.8.3",
+    "vuetify-loader": "^2.0.0-alpha.0"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/vue3-essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
+
+
+

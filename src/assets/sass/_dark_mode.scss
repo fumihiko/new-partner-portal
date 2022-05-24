@@ -1,0 +1,41 @@
+@media (prefers-color-scheme: dark) {
+  /* Dark theme styles go here */
+  body {
+    background-color: $dark-background-color;
+  }
+  .container > header, header {
+    background-color: $dark-background-color;
+  }
+  nav {
+    width: 100%;
+    &.nav {
+        border-top: 1px solid $border-color;
+       
+        &:after {
+           
+            border-bottom-color: $dark-background-color;
+           
+        }
+        &:before {
+           
+            border-bottom-color: $border-color;
+           
+        }
+    }
+  }
+  body, h1, h2 {
+    color: $dark-body-text-color;
+  }
+  
+  .p-dropdown {
+    background-color: transparent;
+  }
+
+  tbody.p-datatable-tbody tr:nth-child(even) {
+    background-color: $dark-list-background-color-even;
+  }
+
+
+  
+  
+}
